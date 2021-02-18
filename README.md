@@ -1,5 +1,5 @@
 # TaxiTimePredictor ✈️
-
+In collaboration with CarlaMartin092, tomterrier and hortensemidy
 Predicts the time laps between the departure of a plane from the dock and its take-off time.
 
 To run the package:
